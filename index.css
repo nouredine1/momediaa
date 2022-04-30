@@ -692,7 +692,7 @@ header.sticky {
     content: '';
     top: 0;
     left: 0;
-    background-image: url(image/wave-bg.png);
+    background-image: url(../image/wave-bg.png);
     background-position: left top;
     background-repeat: no-repeat;
     width: 100%;
